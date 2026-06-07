@@ -1,7 +1,9 @@
 # Perbandingan Kinerja Random Forest dan XGBoost dalam Klasifikasi Risiko Diabetes
 
 Studi komparatif dua algoritma machine learning berbasis pohon keputusan untuk mendeteksi risiko diabetes menggunakan data survei kesehatan masyarakat Amerika Serikat (BRFSS 2015).
+
 **Resume:** [Drive Resume](https://drive.google.com/drive/folders/1EPa6WbEtUVAUumknIie4kwXuA-OND3z7?usp=sharing)
+
 **Peneliti:** Ghaniya Syifa Talitha (243303611239)
 
 ---
